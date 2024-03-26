@@ -11,7 +11,7 @@ import SwiftUI
 struct Combine_UnitTestingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppetiserTabView()
         }
     }
 }
